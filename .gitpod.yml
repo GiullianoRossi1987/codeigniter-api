@@ -1,1 +1,2 @@
-image: /workspace/codeigniter-api/.gitpod.dockerfile
+image: 
+  file: /workspace/codeigniter-api/.gitpod.dockerfile
